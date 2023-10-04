@@ -1,0 +1,11 @@
+/* Login.css */
+/* Add a border to the input fields */
+.form-control {
+    border:1px solid #bdbdbd /* Change the border color to your desired color */
+  }
+  
+  /* Add focus styles for better visibility when the input is active */
+  .form-control:focus {
+    border-color: #508bfc; /* Change the focus border color to match your design */
+    box-shadow: 0 0 0 0.25rem rgba(80, 139, 252, 0.25); /* Add a focus box-shadow */
+  }
